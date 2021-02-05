@@ -14,3 +14,4 @@ history | [n] | prints the latest n commands in history
 ### To-Do:
 * Implement command history navigation via the up and down arrow keys
 * Implement command for making and opening a file
+* Add some fun stuff?
