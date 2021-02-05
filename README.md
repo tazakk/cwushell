@@ -24,7 +24,7 @@ Medium work: download image, import C file, compile, and run
 - Pull with `docker pull szilardvajda/ubuntu_cs370_cs470_cs530:1.0`
 - Run with `docker run -it szilardvajda/ubuntu_cs370_cs470_cs530`
 - Create a file for the C program by running `touch cwushell.c` and open it by running `nano cwushell.c`
-- Copy and paste the contents of `/src/cwushell.c/` into the GNU Editor and save the changes
+- Copy and paste the contents of `/src/cwushell.c` into the GNU Editor and save the changes
 - Create the executable by running `gcc cwushell.c -o cwushell`
 - Start the script by running `./cwushell`
 ### Creating an image
@@ -33,7 +33,7 @@ Most work: download image, download GCC, import C file, compile, run
 - Run it with `docker run ubuntu:latest`
 - Once inside of the container, run `sudo apt install gcc` to download GCC or `sudo apt install build-essential` to download GCC as well as some libraries and G++
 - Create a file for the C program by running `touch cwushell.c` and open it by running `nano cwushell.c`
-- Copy and paste the contents of `/src/cwushell.c/` into the GNU Editor and save the changes
+- Copy and paste the contents of `/src/cwushell.c` into the GNU Editor and save the changes
 - Create the executable by running `gcc cwushell.c -o cwushell`
 - Start the script by running `./cwushell`
 
