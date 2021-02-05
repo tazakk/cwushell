@@ -2,6 +2,8 @@
 **Lab 1 - CS 470 - Operating Systems**\
 Custom Shell Script written from scratch in C
 
+## Available Commands
+
 Command | Switches | Description
 --------|----------|------------
 systeminformation | [-p], [-m], [-o] | Prints information about the system
