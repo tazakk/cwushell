@@ -42,5 +42,4 @@ Most work: download image, download GCC, import C file, compile, run
 
 ## To-Do:
 * Implement command history navigation via the up and down arrow keys
-* Implement command for making and opening a file
 * Add some fun stuff?
